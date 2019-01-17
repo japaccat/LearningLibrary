@@ -7,7 +7,8 @@ Links to Learning Materials on Oracle Cloud
     https://www.youtube.com/user/OracleLearning
   </li>
   <li>
-    Oracle By Example Tutorials              https://apexapps.oracle.com/pls/apex/fp=44785:OLL_SEARCH:100124893465168:::2:P2_SEARCH_TEXT:oracle%20cloud
+    Oracle By Example Tutorials
+    https://apexapps.oracle.com/pls/apex/f?p=44785:OLL_SEARCH:124606631246296:::2:P2_SEARCH_TEXT:oracle%20cloud   
   </li>
   <li>
     GitHub Oracle Learning Library
